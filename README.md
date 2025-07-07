@@ -6,5 +6,6 @@ Robby Firmansyah (312210643)
 Feibert Sianturi (312210578)
 Alfaza Putra Adjie Ariefiansyah (312210512) 
 
-sebelum mengakses Aplikasi, diperlukan download file Harga_BBM.csv
+sebelum mengakses Aplikasi, diperlukan download file harga_bbm.csv
+ 
 Link Streamlit : https://prediksi-harga-bahan-bakar-minyak.streamlit.app/
